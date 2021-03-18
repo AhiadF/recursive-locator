@@ -1,11 +1,9 @@
-# Node TypeScript Starter
-
 ## Getting started
 
 1. Clone this repository and open it
 
 ```bash
-$ git clone https://github.com/HorusGoul/node-ts-starter your-next-project
+$ git clone https://github.com/AhiadF/recursive-locator.git your-next-project
 $ cd your-next-project
 ```
 
